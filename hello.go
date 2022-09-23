@@ -1,4 +1,4 @@
-package hello
+package go_hello
 
 import "fmt"
 
